@@ -1,5 +1,7 @@
+import torch
+
 def main():
-    print("Hello from project!")
+    print("Hello")
 
 
 if __name__ == "__main__":
